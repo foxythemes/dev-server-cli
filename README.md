@@ -1,6 +1,6 @@
 # dev-server-cli
 
-This is a Dev Server CLI, useful for init a server on development FoxyThemes workflow.
+This is a express server we use for our products development.
 
 ## Getting Started
 
