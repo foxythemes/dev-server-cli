@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+html(lang="en")
+	head
+		meta(charset="UTF-8")
+		title Pug server error
+		link(rel="stylesheet", href="http://fonts.googleapis.com/css?family=Inconsolata:400,700", type="text/css")
+		link(rel="stylesheet", href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700", type="text/css")
+		link(rel="stylesheet", href="/server/css/style.css")
+	body
+		#container
+			.header
+				.tools
+					span.circle
+					span.circle
+					span.circle
+				p Pug Error
+			.content!= msg

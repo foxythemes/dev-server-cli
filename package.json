@@ -1,0 +1,30 @@
+{
+  "name": "@foxythemes/dev-server-cli",
+  "version": "1.0.0",
+  "description": "Server for development side",
+  "main": "lib/dev-server-cli.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "bin": {
+    "devserver": "./lib/dev-server-cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foxythemes/dev-server-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foxythemes/dev-server-cli/issues"
+  },
+  "homepage": "https://github.com/foxythemes/dev-server-cli#readme",
+  "dependencies": {
+    "command-line-args": "^5.0.2",
+    "express": "^4.12.3",
+    "pug": "^2.0.0-rc.4"
+  }
+}
