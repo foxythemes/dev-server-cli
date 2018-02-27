@@ -16,8 +16,8 @@
     "type": "git",
     "url": "git+https://github.com/foxythemes/dev-server-cli.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Jhon Pérez",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/foxythemes/dev-server-cli/issues"
   },
